@@ -6,6 +6,7 @@
 
 [Enlace De prueba](https://www.youtube.com)
 
-|:---------:|:----------:|
+
 |Prueba|Tabla|
+|:---------:|:----------:|
 |**Negrita**|*Cursiva*|
